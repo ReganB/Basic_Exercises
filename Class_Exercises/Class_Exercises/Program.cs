@@ -10,6 +10,8 @@ namespace Class_Exercises
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.ReadKey();
         }
     }
 }
